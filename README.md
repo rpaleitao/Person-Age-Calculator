@@ -26,3 +26,8 @@ The Person class has the following features:
 
 # HOW IT WORKS
 In the main.cpp file, we create multiple instances of the Person class with different names and birth years. We then use the calculateAge method to compute and display the age of each person.
+
+# Summary
+This project is a simple yet effective demonstration of basic object-oriented programming principles in C++. It shows how to define a class, use constructors, and implement methods to manipulate and retrieve data. It is a good starting point for anyone looking to understand the fundamentals of C++ programming and class usage.
+
+Feel free to clone this repository, experiment with the code, and extend its functionality!
